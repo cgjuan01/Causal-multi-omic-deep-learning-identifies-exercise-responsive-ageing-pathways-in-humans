@@ -1,0 +1,5 @@
+scope	n_genes_total	n_with_protein_p	n_nominal_p_lt_0_05	pct_nominal_p_lt_0_05	n_FDR_lt_0_05	pct_FDR_lt_0_05
+All genes (protein_MR_p)	3089	2991	2693	90.03677699765966	2683	89.70244065529923
+All genes (protein_MR_p_fixed)	3089	2648	2354	88.89728096676737	2344	88.51963746223565
+protein_present==1 (protein_MR_p)	2991	2991	2693	90.03677699765966	2683	89.70244065529923
+protein_present==1 (protein_MR_p_fixed)	2991	2648	2354	88.89728096676737	2344	88.51963746223565
